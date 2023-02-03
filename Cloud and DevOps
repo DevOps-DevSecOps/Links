@@ -28,9 +28,13 @@ Kubernetes
 
 Helm
 
+Nagios
 New Relic
 Datadog
 
 Splunk
 ELK (Elasticsearch, Logstash, Kibana)
 EFK (Elasticsearch, Fluentd, Kibana)
+
+PagerDuty
+Slack
