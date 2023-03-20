@@ -1,4 +1,21 @@
 https://kubernetes.io/
 https://labs.play-with-k8s.com/
 https://editor.cilium.io/
+
+[]
 https://kind.sigs.k8s.io/
+
+[Certificates]
+● Cert Manager
+https://cert-manager.io/
+
+[MisConfigurations]
+● Datree
+https://www.datree.io/
+https://hub.datree.io/
+
+[Backup & Restore]
+● Velero
+https://velero.io/
+● Kasten (K10)
+https://www.kasten.io/
