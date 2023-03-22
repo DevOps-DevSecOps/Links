@@ -6,7 +6,7 @@ https://editor.cilium.io/
 https://kind.sigs.k8s.io/
 
 [Certificates]
-● Cert Manager
+● Cert Manager                                                                      # X.509 certificate management for Kubernetes and OpenShift
 https://cert-manager.io/
 
 [MisConfigurations]
