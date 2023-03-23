@@ -2,8 +2,15 @@ https://kubernetes.io/
 https://labs.play-with-k8s.com/
 https://editor.cilium.io/
 
-[]
+[Local Cluster Providers]
+●
 https://kind.sigs.k8s.io/
+● k0s
+https://k0sproject.io/
+● K3s
+https://k3s.io/
+● MicroK8s
+https://microk8s.io/
 
 [Certificates]
 ● Cert Manager                                                                      # X.509 certificate management for Kubernetes and OpenShift
