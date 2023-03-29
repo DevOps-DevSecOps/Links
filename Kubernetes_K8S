@@ -1,9 +1,14 @@
 https://kubernetes.io/
+
+[PlayGround]
 https://labs.play-with-k8s.com/
+
+[Editor]
+https://editor.networkpolicy.io/
 https://editor.cilium.io/
 
 [Local Cluster Providers]
-●
+● Kind
 https://kind.sigs.k8s.io/
 ● k0s
 https://k0sproject.io/
