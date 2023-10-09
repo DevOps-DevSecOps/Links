@@ -22,7 +22,10 @@ Maven
 
 SonarQube
 
+Tomcat
+
 Nexus
+JFrog Artifactory
 
 Ansible
 
@@ -37,6 +40,16 @@ Docker
 Kubernetes
 
 Helm
+
+Datree
+
+Argo CD
+
+Flux
+
+Devtron
+
+Velero
 
 Nagios
 New Relic
