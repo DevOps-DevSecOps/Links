@@ -17,6 +17,9 @@ https://k3s.io/
 ● MicroK8s
 https://microk8s.io/
 
+[OperatorHub]
+https://operatorhub.io/
+
 [Certificates]
 ● Cert Manager                                                                      # X.509 certificate management for Kubernetes and OpenShift
 https://cert-manager.io/
