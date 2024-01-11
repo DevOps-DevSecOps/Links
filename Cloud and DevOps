@@ -37,6 +37,9 @@ Terraform
 
 Docker
 
+Trivy
+Snyk
+
 Kubernetes
 
 Helm
@@ -52,6 +55,7 @@ Devtron
 Velero
 
 Nagios
+Prometheus NodeExporter Grafana
 New Relic
 Datadog
 
