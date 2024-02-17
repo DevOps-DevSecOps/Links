@@ -19,6 +19,9 @@ GitLab
 Jenkins
 
 Maven
+Node Package Manager (NPM)
+
+OWASP Dependency-Check
 
 SonarQube
 
@@ -40,19 +43,27 @@ Docker
 Trivy
 Snyk
 
-Kubernetes
+Kubernetes (K8s)
+Kind
+k0s
+K3s
+MicroK8s
+
+K9s
+KubeColor
+
+Velero
+Kasten (K10)
 
 Helm
 
 Datree
 
+Jenkins X
 Argo CD
-
 Flux
 
 Devtron
-
-Velero
 
 Nagios
 Prometheus, Node Exporter, Grafana
