@@ -21,11 +21,12 @@ Jenkins
 Maven
 Node Package Manager (NPM)
 
+Tomcat
+
 OWASP Dependency-Check
 
 SonarQube
-
-Tomcat
+Java Code Coverage (Jacoco)
 
 Nexus Repository
 JFrog Artifactory
@@ -55,6 +56,7 @@ KubeColor
 Velero
 Kasten (K10)
 
+Kustomize
 Helm
 
 Datree
